@@ -6,19 +6,20 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 0 | 3 | 0 | `2026-10-28` |
+| **4** | 0 | 4 | 0 | `2026-10-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (3)
+### DSA (4)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Largest Element](./DSA/Arrays/largest-element) | [PY](./DSA/Arrays/largest-element/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
 | 0002 | [Linear Search](./DSA/Arrays/linear-search) | [PY](./DSA/Arrays/linear-search/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
-| 0003 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [PY](./DSA/Arrays/second-largest-element/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0003 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [PY](./DSA/Arrays/maximum-consecutive-ones/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0004 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [PY](./DSA/Arrays/second-largest-element/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
 
 ---
 
